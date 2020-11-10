@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_list parent="" relationship="" sys_domain="global" table="incident" version="2" view="gittest">
+    <sys_ui_list parent="" relationship="" sys_domain="eb6c8d131b582810b5243158cc4bcb97" table="incident" version="2" view="gittest">
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element/>
@@ -40,18 +40,18 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>john.diego@snc</sys_created_by>
-            <sys_created_on>2020-11-10 21:43:33</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>f46fc9931b582810b5243158cc4bcb7a</sys_id>
+            <sys_created_on>2020-11-10 21:35:22</sys_created_on>
+            <sys_domain>eb6c8d131b582810b5243158cc4bcb97</sys_domain>
+            <sys_domain_path>!!!/!!*/</sys_domain_path>
+            <sys_id>f88d85531b582810b5243158cc4bcb92</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>incident</sys_name>
             <sys_package display_value="GitTest" source="x_snc_gittest">d0f5c91f1b182810b5243158cc4bcbec</sys_package>
             <sys_policy/>
             <sys_scope display_value="GitTest">d0f5c91f1b182810b5243158cc4bcbec</sys_scope>
-            <sys_update_name>sys_ui_list_incident_gittest</sys_update_name>
+            <sys_update_name>sys_ui_list_incident_gittest_f88d85531b582810b5243158cc4bcb92</sys_update_name>
             <sys_updated_by>john.diego@snc</sys_updated_by>
-            <sys_updated_on>2020-11-10 21:43:33</sys_updated_on>
+            <sys_updated_on>2020-11-10 21:35:22</sys_updated_on>
             <sys_user/>
             <view display_value="GitTest" name="gittest">ccec81531b582810b5243158cc4bcba9</view>
             <view_name/>
